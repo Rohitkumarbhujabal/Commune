@@ -7,6 +7,10 @@ const config: Config = {
     './app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    fontFamily: {
+      'mono': ["Menlo", "Monaco", "Consolas", "Courier New"],
+      'mono1': ["Monaco", "Menlo", "Consolas", "Courier New"]
+    },
     extend: {
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
