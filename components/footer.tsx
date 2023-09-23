@@ -1,4 +1,3 @@
-import { Contact, Mail } from "lucide-react";
 
 export const Footer = () => {
   return (
@@ -19,8 +18,8 @@ export const Footer = () => {
           </a>
           <div className="mt-6 lg:max-w-sm">
             <p className="text-sm text-white">
-            Hey there ! Ready for a catch-up chat or a<br/> video call? Whether it's a quick text or a<br/> face to face conversation, 
-            we have got you covered . Don't hesitate to reach out to<br/> your friends, family, or colleagues. 
+            Hey there ! Ready for a catch-up chat or a<br/> video call? Whether it is a quick text or a<br/> face to face conversation, 
+            we have got you covered . Do not hesitate to reach out to<br/> your friends, family, or colleagues. 
             Your connections are just a message or a call away!
             </p>
             <p className="mt-4 text-sm text-white">
@@ -87,8 +86,8 @@ export const Footer = () => {
             </a>
           </div>
           <p className="mt-6 text-sm text-white">
-          We're here to help you with any issues you might have. Our support is just a message away. 
-          Please feel free to reach out, and we'll do our best to assist you promptly. Thank you for choosing our app!
+          We are here to help you with any issues you might have. Our support is just a message away. 
+          Please feel free to reach out, and we will do our best to assist you promptly. Thank you for choosing our app!
           </p>
           <div className="text-white flex justify-between mt-5">
             <a href="#home-page" className="border-2 p-2 rounded-md">Home</a>
